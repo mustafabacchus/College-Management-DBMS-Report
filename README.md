@@ -1,7 +1,7 @@
 # College Management DBMS
 ## **Description:**
 ##### Quering data on a college managemnt database using multiple joins and nested statements to porduce accurate and true reports.
-## **File Explanation:***
+## **File Explanation:**
 ##### Questions.txt: Reporting requirments.
 ##### CMS_Schema.sql: Script that creates all needed tables.
 ##### CMS_Inserts.sql: Inserts the data.
